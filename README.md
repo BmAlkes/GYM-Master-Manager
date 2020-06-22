@@ -5,10 +5,10 @@ gym system developed, with HTML, CSS, JAVASCRIPT
 using teplate engine NunJucks, Express e SQL
 <h2>instructor registration</h2>
 <img src="https://github.com/BmAlkes/GYM-Master-Manager/blob/master/public/Annotation%202020-06-22%20160158.png?raw=true"/>
-<br>
+<br/>
 <h2>Instructor Data </h2> 
-<img src="https://github.com/BmAlkes/GYM-Master-Manager/blob/master/public/Annotation%202.png?raw=true/>
-<br>
+<img src="https://github.com/BmAlkes/GYM-Master-Manager/blob/master/public/Annotation%202.png?raw=true"/>
+<br/>
            <h2>Instructor List</h2>
            <img src="https://github.com/BmAlkes/GYM-Master-Manager/blob/master/public/Annotation%203.png?raw=true"/>
  
