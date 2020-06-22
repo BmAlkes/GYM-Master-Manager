@@ -1,0 +1,29 @@
+ <div class="item">
+                <div>Avatar Url</div>
+                <div>
+                    <input type="url" name="avatar" id="" placeholder="http://" value="{{instructor.avatar}}">
+                </div>
+                <div class="item">
+                    <div>Instructor</div>
+                    <div>
+                        <input type="text" name="name" placeholder="Instructor Name" value="{{instructor.name}}">
+                    </div>
+                </div>
+                <div class="item">
+                    <div>Birthdate</div>
+                    <div><input type="date" name="birth" value="{{instructor.birth}}"></div>
+                </div>
+                <div class="item">
+                    <div>Sex</div>
+                    <div>
+                    <span><input type="radio" name="gender" value="M">Man</span>
+                    <span><input type="radio" name="gender" value="w">Woman</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div>Specializations</div>
+                    <div>
+                      <input type="text" name="services" placeholder="Type of work:'Attendance' " value="{{instructor.services}}">
+                    </div>
+                  <button type="submit">Registers</button>
+                </div>
